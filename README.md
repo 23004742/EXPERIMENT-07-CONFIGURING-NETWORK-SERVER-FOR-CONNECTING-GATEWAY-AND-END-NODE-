@@ -48,6 +48,20 @@ To set APP Key
 
 ## OUTPUT 
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+Homepage:
+![home page of iot server](https://github.com/user-attachments/assets/9cf95b09-5977-47de-8e69-b2a2384ab460)
+Gateway:
+![gateway 1 1](https://github.com/user-attachments/assets/dd075f94-ad8d-4670-bdc2-87426bb7ec53)
+Channel:
+![channel](https://github.com/user-attachments/assets/0da997dd-0c94-4802-9d40-a90b93fda131)
+End Device:
+![end device](https://github.com/user-attachments/assets/093db713-828f-4e38-ba82-dae430a27838)
+
+Payload formatters:
+![payload formatters](https://github.com/user-attachments/assets/07a7a319-ad77-4d78-80f4-25dda60a7bb9)
+
+
+
 
 
 
